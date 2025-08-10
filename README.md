@@ -1,6 +1,6 @@
 # 📄 Python Document Scanner (CamScanner Clone)
 
-A multi-stage image processing pipeline built with Python and OpenCV to automatically detect, crop, and enhance documents from an image, replicating the functionality of applications like CamScanner. This project is implemented in a Jupyter Notebook.
+A multi-stage image processing pipeline built with Python and OpenCV to automatically detect, crop, and enhance documents from an image, replicating the functionality of applications like CamScanner.
 
 ## 🌟 About The Project
 
